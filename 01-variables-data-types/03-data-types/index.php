@@ -32,3 +32,14 @@ var_dump($friends);
 
 $person = new stdClass();
 var_dump($person);
+echo '<br />';
+
+
+// NUll
+$car = null;
+var_dump($car);
+
+// Resource
+
+// $file = fopen('sample.txt' 'r');
+// var_dump($file)
